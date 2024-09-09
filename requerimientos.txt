@@ -1,0 +1,5 @@
+Falta por hacer:
+Las competencias ya son definidas (que salgan todas y ya selecciono)
+Reportes separados del detalle de la oferta (estilo tabs)
+Generar url de sesion (del cliente para cada candidato, el cliente se la manda como sea al candidato)
+
